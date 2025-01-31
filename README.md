@@ -1,4 +1,4 @@
-# Currency Converter 💱[Currency Converter 💱](https://kuldeeplakum.github.io/Currency-Converter/)
+# [Currency Converter 💱](https://kuldeeplakum.github.io/Currency-Converter/)
 A dynamic and interactive Currency Converter built using HTML, CSS, and JavaScript. Convert currencies in real-time with up-to-date exchange rates fetched from an external API.
 
 🚀 How to Use
