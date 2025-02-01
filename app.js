@@ -59,17 +59,3 @@ btn.addEventListener("click", (evt) => {
 window.addEventListener("load", () => {
   updateExchangeRate();
 });
-
-// btn.addEventListener("click", async (evt) => {
-//   evt.preventDefault();
-//   let amount = document.querySelector("#amountVal");
-//   let amtVal = amount.value;
-//   if (amtVal === "" || amtVal < 1) {
-//     amtVal = 1;
-//     amount.value = "1";
-//   }
-//   //   console.log(fromCurr.value, toCurr.value);
-//   const URL = `${BASE_URL}/${fromCurr.value.toLowerCase()}.json`;
-//   let response = await fetch(URL);
-//   console.log(response);
-// });
