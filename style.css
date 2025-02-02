@@ -141,7 +141,6 @@ form button:hover {
         font-size: 0.95rem;
     }
     .select-container {
-        flex-direction: column;
         width: 100%;
     }
     .select-container img {
